@@ -9,7 +9,7 @@ Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
     <img src="https://img.shields.io/github/stars/isagzbyk46/AnonXMusic?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/>
 </a>
 <a href="https://github.com/isagzbyk46/AnonXMusic/network/members">
-    <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Forks"/>
+    <img src="https://img.shields.io/github/forks/isagzbyk46/AnonXMusic?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Forks"/>
 </a>
 <a href="https://github.com/isagzbyk46/AnonXMusic/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
