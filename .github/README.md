@@ -6,7 +6,7 @@
 Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 
 <a href="https://github.com/isagzbyk46/AnonXMusic/stargazers">
-    <img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/isagzbyk46/AnonXMusic?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/>
 </a>
 <a href="https://github.com/isagzbyk46/AnonXMusic/network/members">
     <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Forks"/>
@@ -42,7 +42,7 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 
 - <a href="https://www.python.org">Python 3.10+</a> installed  
 - <a href="https://deno.com/">deno</a> & <a href="https://ffmpeg.org/">ffmpeg</a> installed on your system  
-- Required variables mentioned in <a href="https://github.com/AnonymousX1025/AnonXMusic/blob/master/sample.env">sample.env</a>
+- Required variables mentioned in <a href="https://github.com/isagzbyk46/AnonXMusic/blob/master/sample.env">sample.env</a>
 
 <details>
     <summary>
@@ -53,7 +53,7 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 <h4>🐧 Linux/macOS</h4>
 
 ```bash
-git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic
+git clone https://github.com/isagzbyk46/AnonXMusic && cd AnonXMusic
 
 # Install uv
 curl -Ls https://astral.sh/uv/install.sh | sh
@@ -73,7 +73,7 @@ bash start
 <h4>🪟 Windows (PowerShell)</h4>
 
 ```bash
-git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic
+git clone https://github.com/isagzbyk46/AnonXMusic && cd AnonXMusic
 
 # Install uv
 irm https://astral.sh/uv/install.ps1 | iex
@@ -99,7 +99,7 @@ uv run python3 -m anony
     </summary>
 
 > Click on the button below to deploy on Heroku<br>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/AnonXMusic">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/isagzbyk46/AnonXMusic">
         <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku"/>
     </a>
 </details>
@@ -122,7 +122,7 @@ MONGO_URL=mongodb+srv://
 SESSION=BQgfh...AA
 ```
 
-> 📝 Check <a href="https://github.com/AnonymousX1025/AnonXMusic/blob/master/config.py">config.py</a> for all available options.
+> 📝 Check <a href="https://github.com/isagzbyk46/AnonXMusic/blob/master/config.py">config.py</a> for all available options.
 </details>
 
 <hr>
@@ -162,21 +162,21 @@ Contributions are welcome!
 
 <h2>🗒️ License</h2>
 
-This project is licensed under the <b>MIT License</b> — see <a href="https://github.com/AnonymousX1025/AnonXMusic/blob/master/LICENSE">LICENSE</a> for details.
+This project is licensed under the <b>MIT License</b> — see <a href="https://github.com/isagzbyk46/AnonXMusic/blob/master/LICENSE">LICENSE</a> for details.
 
 <hr>
 
 <h2>🤞 Updates and support</h2>
 
-- <a href="https://fallenx.t.me">Updates channel</a>
-- <a href="https://DevilsHeavenMF.t.me">Support group</a>
+- <a href="https://t.me/gitaristmusic1">Updates channel</a>
+- <a href="https://t.me/gitaristmusic1">Support group</a>
 
 <hr>
 
 <h2>👀 Acknowledgements</h2>
 
 - Inspired by other open-source Telegram music bots.
-- Thanks to all the <a href="https://github.com/AnonymousX1025/AnonXMusic/graphs/contributors">contributors</a>.
+- Thanks to all the <a href="https://github.com/isagzbyk46/AnonXMusic/graphs/contributors">contributors</a>.
 
 <hr>
 
