@@ -54,7 +54,7 @@ class YouTube:
         if not self.cookies:
             if not self.warned:
                 self.warned = True
-                logger.warning("Cookies are missing; downloads might fail.")
+                logger.warning("çerezler indirilemedi.")
             return None
         return random.choice(self.cookies)
 
